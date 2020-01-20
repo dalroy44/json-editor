@@ -1,0 +1,22 @@
+{
+  "name": "testing-react-json-tree",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-json-tree": "0.11.0",
+    "react-json-view": "1.19.1",
+    "react-scripts": "1.1.4",
+    "react-sortable-tree": "2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
